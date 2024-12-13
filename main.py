@@ -1,4 +1,4 @@
-#Leetcode70
+#Leetcode75
 
 """
 Question Link
