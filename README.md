@@ -16,4 +16,4 @@ To enhance problem-solving skills by solving **Python and SQL** challenges on **
 ## 🔥 How to Use  
 1. Clone this repo:  
    ```sh
-   git clone https://github.com/OmkarrrrB/HackerRank-Python-SQL.git
+   git clone https://github.com/OmkaarrrrB/HackerRank-SQL-Python-Mastery.git
